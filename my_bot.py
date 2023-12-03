@@ -41,7 +41,7 @@ def process_queue():
                 # Получаем короткий код из ссылки
                 shortcode = original_message.text.split('/')[-2]
                 print("Shortcode:", shortcode)
-                # Загружаем реел по короткому коду
+                # Загружаем рил по короткому коду
                 download_instagram_reel(shortcode)
 
                 # Отправляем файл формата mp4 из временной папки 'temp'
