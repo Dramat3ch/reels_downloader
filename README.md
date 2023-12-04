@@ -20,7 +20,7 @@ Before you start, make sure you have the following installed:
 2. **Install InstagramLoader:**
 
    ```bash
-   pip install instagramloader
+   pip install instaloader
    ```
 
 3. **Get Telegram Bot Token:**
