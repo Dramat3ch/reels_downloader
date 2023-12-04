@@ -25,7 +25,7 @@ Before you start, make sure you have the following installed:
 
 3. **Get Telegram Bot Token:**
    
-   - Open Telegram and search for the BotFather.
+   - Open Telegram and search for the [BotFather](https://t.me/BotFather).
    - Start a chat with BotFather and use the `/newbot` command to create a new bot.
    - Follow the instructions to set a name and username for your bot.
    - Once the bot is created, BotFather will provide you with a token. Copy this token.
