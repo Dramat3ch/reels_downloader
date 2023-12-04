@@ -30,9 +30,9 @@ Before you start, make sure you have the following installed:
    - Follow the instructions to set a name and username for your bot.
    - Once the bot is created, BotFather will provide you with a token. Copy this token.
 
-4. **Configure Bebrasaver:**
+4. **Configure Instagram Reels Downloader:**
    
-   - Navigate to the Bebrasaver project directory.
+   - Navigate to the Instagram Reels Downloader project directory.
    - Open the `config.py` file.
    - Paste the Telegram bot token from BotFather into the `YOUR_TELEGRAM_BOT_TOKEN` field.
 
@@ -42,7 +42,7 @@ Before you start, make sure you have the following installed:
     
 ## Usage
 
-Start the Bebrasaver Telegram bot.
+Start the Instagram Reels Downloader Telegram bot.
 
 ```bash
 python my_bot.py
@@ -52,5 +52,5 @@ Open Telegram and search for your bot. Start a chat with the bot and use the ava
 
 ## Contributing
 
-If you'd like to contribute to Bebrasaver, feel free to fork the repository, make your changes, and submit a pull request.
+If you'd like to contribute to Instagram Reels Downloader, feel free to fork the repository, make your changes, and submit a pull request.
 
