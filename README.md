@@ -1,6 +1,7 @@
+
 # Instagram Reels Downloader - Telegram Bot
 
-Bebrasaver is a Telegram bot designed to help you easily download Instagram reels. Follow the instructions below to set up the bot and start using it.
+It`s a Telegram bot designed to help you easily download Instagram reels. Follow the instructions below to set up the bot and start using it.
 
 ## Prerequisites
 
@@ -12,14 +13,15 @@ Before you start, make sure you have the following installed:
 
 1. **Install Telebot:**
    
-    ```
-    pip install pyTelegramBotAPI
-    ```
+   ```bash
+   pip install pyTelegramBotAPI
+   ```
+
 2. **Install InstagramLoader:**
 
-    ```bash
-    pip install instagramloader
-    ```
+   ```bash
+   pip install instagramloader
+   ```
 
 3. **Get Telegram Bot Token:**
    
@@ -33,18 +35,18 @@ Before you start, make sure you have the following installed:
    - Navigate to the Bebrasaver project directory.
    - Open the `config.py` file.
    - Paste the Telegram bot token from BotFather into the `YOUR_TELEGRAM_BOT_TOKEN` field.
-     
-     ```
-      TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-     ```
-    
-      
 
+   ```python
+   TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+   ```
+    
 ## Usage
 
 Start the Bebrasaver Telegram bot.
 
-    python my_bot.py
+```bash
+python my_bot.py
+```
 
 Open Telegram and search for your bot. Start a chat with the bot and use the available commands to download Instagram reels.
 
