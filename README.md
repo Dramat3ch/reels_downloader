@@ -35,11 +35,6 @@ pip install instaloader
    - Navigate to the Instagram Reels Downloader project directory.
    - Open the `config.py` file.
    - Paste the Telegram bot token from BotFather into the `YOUR_TELEGRAM_BOT_TOKEN` field. 
-
-   
-```python
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
-```
     
 ## Usage
 
@@ -50,4 +45,3 @@ python my_bot.py
 ```
 
 Open Telegram and search for your bot. Start a chat with the bot and send the Instagram Reel link to get the MP4 video.
-
