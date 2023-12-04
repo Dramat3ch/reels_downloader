@@ -50,7 +50,7 @@ Start the Instagram Reels Downloader Telegram bot.
 python my_bot.py
 ```
 
-Open Telegram and search for your bot. Start a chat with the bot and use the available commands to download Instagram reels.
+Open Telegram and search for your bot. Start a chat with the bot and send the Instagram Reel link to get the MP4 video.
 
 ## Contributing
 
